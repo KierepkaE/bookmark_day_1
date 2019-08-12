@@ -1,0 +1,37 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/app.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/spec/features/index_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1565617675
+  }
+}
