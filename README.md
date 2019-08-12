@@ -1,3 +1,3 @@
 # bookmark_day_1
 
-![screenshot]('https://www.dropbox.com/s/0nnmfigmpm2dcvh/Screenshot%202019-08-12%20at%2014.09.54.png?dl=0')
+![screenshot]('https://previews.dropbox.com/p/thumb/AAj6XPaoddih8jlAoEVIeNeW3H0ZGZADAvc20Gf6JG1J09HjVhKvy2UOqkIUHiqu7q51J_vZHEc8beXMCSDGHpIYKbcmTb0qiue-VGVFATS3g1uCQ7NAZTa8zqCmjOXyC1gaN2svNnF37sPbh4f97nh86zSguCnfZhQ9mrLccV2FyFn0QNpSjpZYviQ0ZUdtBzhYnu1gf3HOwMRfWOZfhysqDrHz3lCn_xAjNbl5VMWEzbtLTNq5LUppJ-7r8Fg5GMUlOkte26UiH0L6NtTXuTbF3ZJRZvxJr_2uByb-kLqCOneHV3Fk9hR1f0gx0yWNL5mlypPM4asP1B4TRwq8VsTz/p.png?fv_content=true&size_mode=5')
