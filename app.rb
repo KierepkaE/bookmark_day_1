@@ -13,8 +13,14 @@ get '/' do
   erb :index
 end
 
-  run! if app_file == $0
+get '/bookmarks' do
+  erb :bookmarks
+end
 
+
+
+
+  run! if app_file == $0
   set :session_secret, 'super secret'
 
 end
