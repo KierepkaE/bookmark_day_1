@@ -13,3 +13,4 @@ gem 'rspec-sinatra', '0.1.2'
 group :production do
  gem 'pg'
 end
+gem 'solargraph', '0.36.0'
