@@ -8,3 +8,5 @@ gem 'capybara', '3.28.0'
 gem 'rubocop', '0.74.0'
 gem 'simplecov', require: false, group: :test
 gem 'rspec-sinatra', '0.1.2'
+
+gem 'pg'
