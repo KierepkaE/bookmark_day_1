@@ -2,9 +2,9 @@
 
 ### user story:
 
-`As a user,` \n
-`So that I can quickly revisit my favourite websites,`\n
-`I want to see list of bookmarks`\n
+`As a user,` 
+`So that I can quickly revisit my favourite websites,`
+`I want to see list of bookmarks`
 
 ### domain model
 
