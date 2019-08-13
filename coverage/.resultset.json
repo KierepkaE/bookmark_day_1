@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/hannaaikas/Projects/bookmark_day_1/app.rb": [
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/app.rb": [
         null,
         1,
         1,
@@ -25,40 +25,49 @@
         null,
         null
       ],
-      "/Users/hannaaikas/Projects/bookmark_day_1/lib/bookmark.rb": [
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/lib/bookmark.rb": [
         1,
         null,
         1,
         null,
+        1,
         null,
+        null,
+        1,
+        2,
+        2,
+        8,
+        null,
+        null,
+        null
+      ],
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         null,
         null,
         null
       ],
-      "/Users/hannaaikas/Projects/bookmark_day_1/spec/bookmark_spec.rb": [
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/spec/features/bookmarks_spec.rb": [
+        1,
+        1,
+        1,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
+        1,
+        1,
         null,
         null,
         null
       ],
-      "/Users/hannaaikas/Projects/bookmark_day_1/spec/features/bookmarks_spec.rb": [
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/hannaaikas/Projects/bookmark_day_1/spec/features/index_spec.rb": [
+      "/Volumes/Transcend/MAKERS/week_4/bookmark_day_1/spec/features/index_spec.rb": [
         1,
         1,
         1,
@@ -67,6 +76,6 @@
         null
       ]
     },
-    "timestamp": 1565622498
+    "timestamp": 1565690385
   }
 }
