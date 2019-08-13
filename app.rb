@@ -3,7 +3,7 @@ require 'sinatra/base'
 require 'sinatra'
 require 'capybara/dsl'
 require 'selenium-webdriver'
-require 'bookmark'
+require_relative './lib/bookmark.rb'
 
 class BookmarkManager < Sinatra::Base
 
